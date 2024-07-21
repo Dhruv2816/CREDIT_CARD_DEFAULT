@@ -1,5 +1,3 @@
-## THIS IS AN EMPTY FRAMEWORK
+To checkout the app
+https://credit-card-default-pred.streamlit.app/
 
-## TO CREATE A NEW ENVIRONMENT
-conda create -p venv python -y
-"# E-to-E-ML-workspace" 
